@@ -1,5 +1,9 @@
 # Xamarin Interview Questions and Answers
 
+C# is one of the top 5 languages that people use around the world and the app-building over the Xamarin platform is on rise. Xamarin is a prominent choice among developers and the reason behind it is — “ Seamless Functionality”. Launched in 2011, Xamarin offers code re-usability and sharing codes with other platforms while giving access to native API’s.
+
+> You could also find all the answers here 👉 https://www.fullstack.cafe/Xamarin.
+
 ## Q1: What is Xamarin? ⭐
 
 **Answer:**
